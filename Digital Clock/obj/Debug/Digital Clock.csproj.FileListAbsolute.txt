@@ -1,0 +1,9 @@
+F:\visual studio project\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe.config
+F:\visual studio project\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe
+F:\visual studio project\Digital Clock\Digital Clock\bin\Debug\Digital Clock.pdb
+F:\visual studio project\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csprojResolveAssemblyReference.cache
+F:\visual studio project\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Form1.resources
+F:\visual studio project\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+F:\visual studio project\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.GenerateResource.Cache
+F:\visual studio project\Digital Clock\Digital Clock\obj\Debug\Digital Clock.exe
+F:\visual studio project\Digital Clock\Digital Clock\obj\Debug\Digital Clock.pdb
